@@ -6,7 +6,7 @@
 * browse to https://www.pexels.com/api/new/ and create an API key
 * copy/paste the key to .env file like this:
 
-> pexels=<api key>
+> pexels=&lt;api key&gt;
 
 ### Usage
 

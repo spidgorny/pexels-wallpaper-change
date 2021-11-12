@@ -1,0 +1,20 @@
+{
+  "name": "pexels-wallpaper-change",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "download": "^8.0.0",
+    "hpagent": "^0.1.2",
+    "pexels": "^1.3.0",
+    "wallpaper": "^5.0.1"
+  },
+  "scripts": {
+    "run": "node index"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
